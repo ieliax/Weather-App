@@ -17,6 +17,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property(nonatomic,strong)WCityRealmModel *realmObject;
 @property(nonatomic,strong)NSString *viewControllerIdentifier;
 
+
 @end
 
 NS_ASSUME_NONNULL_END
